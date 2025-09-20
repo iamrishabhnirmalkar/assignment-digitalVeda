@@ -30,7 +30,6 @@ export default function Footer() {
                                 </p>
                             </div>
 
-                            {/* Social Media Icons */}
                             <div className="flex gap-4 mt-4">
                                 <a
                                     href="#"
@@ -65,7 +64,6 @@ export default function Footer() {
                             </div>
                         </div>
 
-                        {/* info 1 */}
                         <div>
                             <h2 className="text-[#84BD38] font-semibold mb-3">Bestelinformatie</h2>
                             <ul className="space-y-2 text-sm">
@@ -96,7 +94,6 @@ export default function Footer() {
                             </ul>
                         </div>
 
-                        {/* info 2 */}
                         <div>
                             <h2 className="text-[#84BD38] font-semibold mb-3">Handige info</h2>
                             <ul className="space-y-2 text-sm">
@@ -127,7 +124,6 @@ export default function Footer() {
                             </ul>
                         </div>
 
-                        {/* info 3 */}
                         <div>
                             <h2 className="text-[#84BD38] font-semibold mb-3">Bestelinformatie</h2>
                             <ul className="space-y-2 text-sm">
