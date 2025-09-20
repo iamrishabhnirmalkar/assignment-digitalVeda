@@ -50,9 +50,8 @@ export default function ProductRating() {
                                 <div
                                     key={product.id}
                                     className="relative bg-white rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow duration-300 border-2 border-[#84BD38]"
-                                    style={{ width: '390px', height: '552px' }}
                                 >
-                                    <div className="relative w-full h-full">
+                                    <div className="relative w-full aspect-[3/4]">
                                         <Image
                                             src={product.image}
                                             alt={product.name}
